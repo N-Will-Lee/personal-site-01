@@ -1,4 +1,5 @@
 Now this is Nick's personal website!
+With new changes!
 
 Sorry Jose.
 
