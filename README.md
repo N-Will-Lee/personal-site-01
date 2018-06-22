@@ -1,3 +1,7 @@
+Now this is Nick's personal website!
+
+Sorry Jose.
+
 This repo is to store and backup versions of my first personal
 website for my first bucket at Galvanize.
 
